@@ -1,0 +1,1 @@
+This project was developed while following the Udemy course "**Complete guide to building an app with .Net Core and React**". The goal of this project is to reinforce learning by implementing concepts in a hands-on manner.
